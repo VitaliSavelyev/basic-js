@@ -1,6 +1,6 @@
 const CustomError = require("../extensions/custom-error");
 
-/
+
 const chainMaker = {
     mass : [],
     getLength() {
